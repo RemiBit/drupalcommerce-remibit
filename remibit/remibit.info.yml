@@ -1,0 +1,7 @@
+name: RemiBit Payment Method
+type: module
+description: Provides Commerce integration for the RemiBit Payment Method.
+core: 8.x
+package: Commerce (contrib)
+dependencies:
+  - commerce:commerce_payment

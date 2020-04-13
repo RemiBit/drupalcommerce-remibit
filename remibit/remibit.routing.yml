@@ -1,0 +1,16 @@
+remibit.checkout_return:
+  path: 'remibit/checkout_return'
+  defaults:
+    _controller: '\Drupal\remibit\Controller\RemibitController::checkoutReturn'
+  options:
+    no_cache: TRUE
+  requirements:
+    _access: 'TRUE'
+remibit.checkout_procced:
+  path: 'remibit/checkout_procced'
+  defaults:
+    _controller: '\Drupal\remibit\Controller\RemibitController::proceedPayment'
+  options:
+    no_cache: TRUE
+  requirements:
+    _access: 'TRUE'
