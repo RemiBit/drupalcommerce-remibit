@@ -41,7 +41,7 @@ RemiBit Payment Method is ticked, which means it’s already activated.
 5/. Now go to Commerce > Configuration > Payment > Payment gateways
 
 Click on Add payment gateway
-Select REMIBIT Payment Method
+Select ``REMIBIT Payment Method``
 Click on ``Name`` and write ``RemiBit``
 Click on ``Machine-readable name`` and write ``remibit``
 
