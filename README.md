@@ -17,7 +17,7 @@ cd web/modules/custom
 2/. Fetch the RemiBit module
 
 ```
-sudo wget https://github.com/RemiBit/drupalcommerce-remibit/releases/download/plugins/drupalcommerce-remibit.zip
+sudo wget https://github.com/RemiBit/drupalcommerce-remibit/releases/download/v1.0/drupalcommerce-remibit.zip
 ```
 
 3/. Uncompress and install it
