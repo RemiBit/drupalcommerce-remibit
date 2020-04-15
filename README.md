@@ -5,7 +5,7 @@ INSTALLATION AND CONFIGURATION
 
 In order to install the module, it is necessary to access the server where the web files are hosted by ssh. If you don’t know how to do that, please contact your site administrator or your hosting provider.
 
-In this example we will be using the default Drupal Commerce configuration, so the website files are located in /var/www/html/mystore. Please replace <mystore> with the actual name of your website directory.
+In this example we will be using the default Drupal Commerce configuration, so the website files are located in /var/www/html/mystore. Please replace [mystore] with the actual name of your website directory.
 
 1/. Go to the drupal directory and then to the directory where you have to place the module files.
 
