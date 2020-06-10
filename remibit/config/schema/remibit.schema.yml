@@ -12,7 +12,7 @@ commerce_payment.commerce_payment_gateway.plugin.remibit_redirect_checkout:
       label: 'Signature key'
     md5_hash:
       type: string
-      label: 'MD5 Hash'
+      label: 'MD5 Hash Value'
     gateway_url:
       type: string
-      label: 'Gateway URL'
+      label: 'Endpoint URL'

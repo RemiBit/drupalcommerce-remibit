@@ -76,7 +76,7 @@ class remibit extends OffsitePaymentGatewayBase {
 
         $form['md5_hash'] = [
             '#type' => 'textfield',
-            '#title' => $this->t('MD5 Hash'),
+            '#title' => $this->t('MD5 Hash Value'),
 //            '#description' => $this->t('The API key for the same user as used in Agreement ID.'),
             '#default_value' => $this->configuration['md5_hash'],
             '#required' => TRUE,
@@ -84,7 +84,7 @@ class remibit extends OffsitePaymentGatewayBase {
 
         $form['gateway_url'] = [
             '#type' => 'textfield',
-            '#title' => $this->t('Gateway URL'),
+            '#title' => $this->t('Endpoint URL'),
 //            '#description' => $this->t('The API key for the same user as used in Agreement ID.'),
             '#default_value' => $this->configuration['gateway_url'],
             '#required' => TRUE,
