@@ -2,6 +2,11 @@ DRUPAL COMMERCE REMIBIT MODULE
 
 INSTALLATION AND CONFIGURATION
 
+## Integration Requirements
+
+- A RemiBit merchant account.
+- Drupal Commerce, tested with drupal version up to 8.9.0 and commerce up to 2.19
+
 
 In order to install the module, it is necessary to access the server where the web files are hosted by ssh. If you don’t know how to do that, please contact your site administrator or your hosting provider.
 
