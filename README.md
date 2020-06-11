@@ -39,9 +39,10 @@ RemiBit Payment Method is ticked, which means it’s already activated.
 5/. Now go to Commerce > Configuration > Payment > Payment gateways
 
 Click on Add payment gateway
+
 Select ``REMIBIT Payment Method``
+
 Click on ``Name`` and write ``RemiBit``
-Click on ``Machine-readable name`` and write ``remibit``
 
 6/. Fill up ``Login ID``, ``Transaction Key``, ``Signature Key`` and ``MD5 Hash Value`` with the data you get from your RemiBit account’s Settings > Gateway
 
